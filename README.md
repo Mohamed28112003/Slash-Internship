@@ -10,5 +10,9 @@ This Simple Streamlit application allows users to upload an image and analyze it
 
 
 
-Uploading task1 .mp4…
+
+
+
+
+https://github.com/Mohamed28112003/Slash-Internship/assets/114874929/6e62044e-ba1e-4bcd-8a92-3350d62c60a3
 
