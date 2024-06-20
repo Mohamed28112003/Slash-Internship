@@ -1,6 +1,7 @@
 # Image Component Analyzer Using MobileNetV2
 
-This Simple Streamlit application allows users to upload an image and analyze its components using the MobileNetV2 model.
+This Simple Streamlit application allows users to upload an image and analyze its components using the MobileNetV2 model. 
+It is a task at the Slash Mark Internship in the field of AI :star:
 
 ## Features
 - Upload an image in `jpg`, `jpeg`, or `png` format.
