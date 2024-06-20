@@ -8,3 +8,7 @@ This Simple Streamlit application allows users to upload an image and analyze it
 - Display the top-5 predicted components with their confidence scores.
 
 
+
+
+Uploading task1 .mp4…
+
